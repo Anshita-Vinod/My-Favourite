@@ -1,0 +1,46 @@
+body {
+    text-align: center;
+
+    background-repeat: no-repeat;
+}
+
+img {
+    height: 300px;
+}
+
+h1 {
+    text-shadow: 3px 3px #feff75;
+    font-size: 37px;
+    color: #0700ff;
+}
+
+.line {
+    height: 6px;
+    background-color: #000000;
+    width: 70px;
+    margin: 8px auto;
+}
+
+p {
+    font-size: 19px;
+    color: white;
+}
+
+.links {
+    float: right;
+    color: white;
+    padding: 9px;
+    font-family: Copperplate;
+    font-size: 25px;
+    font-weight: bolder;
+    
+}
+
+.links:hover {
+    background-color: purple;
+}
+
+#welcome {
+    background: linear-gradient(#b6fffa 0%, #ed6af3 125%);
+    position: absolute;
+ 
